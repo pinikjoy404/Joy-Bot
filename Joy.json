@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Joy-bot",
+  "BOTNAME": "your bot name",
   "PREFIX": ".",
   "OPERATOR": [
-    "61568646922201",
-    "100000121528628"
+    "your uid",
+    "your uid"
   ],
   "ADMINBOT": [
-    "61568646922201",
-    "100000121528628"
+    "your uid",
+    "your uid"
   ],
-  "OWNER": ["61568646922201"], 
+  "OWNER": ["not change "], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
