@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "your bot name",
-  "PREFIX": ".",
+  "PREFIX": "your prefix",
   "OPERATOR": [
     "your uid",
     "your uid"
